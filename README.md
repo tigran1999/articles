@@ -1,13 +1,11 @@
-# articles
-Article
+# Article API
+
               
               
-              Requirements
+# Requirements:
 For building and running the application you need:
 
-  JDK 17
-  Maven 3
-  PostgreSQL
+  JDK 17,Maven 3,PostgreSQL
   
-                                Authorization
-For authorization use "admin" for password and "admin" for login
+# Authorization
+For authorization use "admin" for username and "admin" for password
